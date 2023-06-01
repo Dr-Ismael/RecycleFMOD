@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{6790081b-89e3-4244-864a-3b110fb3c3b0}">
+		<property name="name">
+			<value>StemPantano</value>
+		</property>
+		<relationship name="folder">
+			<destination>{96f19de3-f7e9-4eee-8ed9-d94c6e774428}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{44a6edb1-a4ce-4bd3-82c3-4cf75ac8e7e6}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{44a6edb1-a4ce-4bd3-82c3-4cf75ac8e7e6}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>8</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
