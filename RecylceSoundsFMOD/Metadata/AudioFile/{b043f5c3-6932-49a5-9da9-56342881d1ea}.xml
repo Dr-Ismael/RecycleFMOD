@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{b043f5c3-6932-49a5-9da9-56342881d1ea}">
+		<property name="assetPath">
+			<value>Music/Menu/cancion 2 - 0002 - Audio - Time Warpz_bip_2.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>22.872</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8ebc32e1-7bd4-4d5f-8626-5bad1c23cc1c}</destination>
+		</relationship>
+	</object>
+</objects>

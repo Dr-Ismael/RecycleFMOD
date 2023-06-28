@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="AudioFile" id="{0818dde7-7d67-4871-988d-228dd7a43955}">
+		<property name="assetPath">
+			<value>Music/Tutorial/Cancion 1 - 0003 - Audio - Shifting Frequencies_bip_3.mp3</value>
+		</property>
+		<property name="isStreaming">
+			<value>true</value>
+		</property>
+		<property name="frequencyInKHz">
+			<value>48</value>
+		</property>
+		<property name="channelCount">
+			<value>2</value>
+		</property>
+		<property name="length">
+			<value>25.367999999999999</value>
+		</property>
+		<relationship name="masterAssetFolder">
+			<destination>{8ebc32e1-7bd4-4d5f-8626-5bad1c23cc1c}</destination>
+		</relationship>
+	</object>
+</objects>
