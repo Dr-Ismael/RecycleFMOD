@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{25f1fea5-8a27-444e-a06c-70bcde9ba08c}">
+		<property name="name">
+			<value>IntensitySnow</value>
+		</property>
+		<relationship name="folder">
+			<destination>{96f19de3-f7e9-4eee-8ed9-d94c6e774428}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{ffccbf46-c516-4685-a20f-7913c4f801a2}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{ffccbf46-c516-4685-a20f-7913c4f801a2}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>4</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>

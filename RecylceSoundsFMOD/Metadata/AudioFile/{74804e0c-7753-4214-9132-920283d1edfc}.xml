@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{4fad19cc-daa5-48be-a663-cdd832b7a31d}">
+	<object class="AudioFile" id="{74804e0c-7753-4214-9132-920283d1edfc}">
 		<property name="assetPath">
-			<value>Music/Swamp/Pantano - 0005 - Audio - Pluck marimba_1.mp3</value>
+			<value>Music/Snow/Nieve - 0004 - Audio - percs_1.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
@@ -14,7 +14,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>34.176000000000002</value>
+			<value>16.463999999999999</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{8ebc32e1-7bd4-4d5f-8626-5bad1c23cc1c}</destination>

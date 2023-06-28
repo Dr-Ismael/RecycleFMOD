@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{ed69b9eb-947f-41fc-b2a7-b25e9c5d9d4b}">
 		<property name="assetPath">
-			<value>Music/Pantano/Pantano - 0007 - Audio - Pluck violin DR_1.mp3</value>
+			<value>Music/Swamp/Pantano - 0007 - Audio - Pluck violin DR_1.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
