@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{fce26cb8-62fb-4157-96b1-79a5fec5ee3b}">
+	<object class="AudioFile" id="{5d60f2b9-2e21-4afb-8e35-e093cfde8202}">
 		<property name="assetPath">
-			<value>Music/Mountain/Montaña Stems Tom 1.mp3</value>
+			<value>Music/Mountain/Stems Mountain 2 Brasses Audio.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
@@ -14,7 +14,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>154.29599999999999</value>
+			<value>156.43199999999999</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{8ebc32e1-7bd4-4d5f-8626-5bad1c23cc1c}</destination>
