@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{a6f0621e-160f-4d4f-bdf1-637695bf3197}">
+	<object class="AudioFile" id="{ed69b9eb-947f-41fc-b2a7-b25e9c5d9d4b}">
 		<property name="assetPath">
-			<value>Music/Pantano/Pluck violin DR_1.wav</value>
+			<value>Music/Pantano/Pantano - 0007 - Audio - Pluck violin DR_1.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>44.0999985</value>
+			<value>48</value>
 		</property>
 		<property name="channelCount">
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>30.473469387755102</value>
+			<value>34.176000000000002</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{8ebc32e1-7bd4-4d5f-8626-5bad1c23cc1c}</destination>

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{75c17507-2dac-4b32-acd3-9381004c1d03}">
+	<object class="AudioFile" id="{fe255a1a-74c8-4dc7-bfd8-613a77afc826}">
 		<property name="assetPath">
-			<value>Music/Pantano/Pluck marimba_1.wav</value>
+			<value>Music/Pantano/Pantano - 0004 - Audio - Pluck GTr DR_1.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>44.0999985</value>
+			<value>48</value>
 		</property>
 		<property name="channelCount">
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>17.098775510204081</value>
+			<value>34.176000000000002</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{8ebc32e1-7bd4-4d5f-8626-5bad1c23cc1c}</destination>

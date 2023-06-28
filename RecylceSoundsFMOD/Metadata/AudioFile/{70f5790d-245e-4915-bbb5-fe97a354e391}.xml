@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{f7417deb-5d99-4720-98bf-3ed53527c8d9}">
+	<object class="AudioFile" id="{70f5790d-245e-4915-bbb5-fe97a354e391}">
 		<property name="assetPath">
-			<value>Music/Pantano/Plucks_1.wav</value>
+			<value>Music/Pantano/Pantano - 0003 - Audio - Pad_1.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>44.0999985</value>
+			<value>48</value>
 		</property>
 		<property name="channelCount">
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>14.869659863945579</value>
+			<value>34.176000000000002</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{8ebc32e1-7bd4-4d5f-8626-5bad1c23cc1c}</destination>

@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{1f5d77f1-a8a8-45a8-b8e0-86645abcc905}">
+	<object class="AudioFile" id="{cb36edc8-337a-4786-869d-9c46666a439e}">
 		<property name="assetPath">
-			<value>Music/Pantano/Kick DR_1.wav</value>
+			<value>Music/Pantano/Pantano - 0001 - Audio - Chords 2_1-01.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>44.0999985</value>
+			<value>48</value>
 		</property>
 		<property name="channelCount">
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>33.445623582766437</value>
+			<value>34.176000000000002</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{8ebc32e1-7bd4-4d5f-8626-5bad1c23cc1c}</destination>
