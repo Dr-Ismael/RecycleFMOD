@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{02839621-678c-4822-a4dd-926cdfd32eb9}">
 		<property name="assetPath">
-			<value>Stingers/Sirena-Poli-Power-Up-Botón_1.mp3</value>
+			<value>UI/Sirena-Poli-Power-Up-Botón_1.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

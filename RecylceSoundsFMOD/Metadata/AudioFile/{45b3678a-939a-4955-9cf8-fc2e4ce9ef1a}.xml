@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="AudioFile" id="{45b3678a-939a-4955-9cf8-fc2e4ce9ef1a}">
 		<property name="assetPath">
-			<value>SFX/Truck-Horn-Camión-2.mp3</value>
+			<value>SFX/Stingers/Truck-Horn-Camión-2.mp3</value>
 		</property>
 		<property name="frequencyInKHz">
 			<value>48</value>

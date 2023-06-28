@@ -60,7 +60,7 @@
 			<destination>{d303ea19-5562-4aec-8c59-929a87b2ac40}</destination>
 		</relationship>
 		<relationship name="output">
-			<destination>{0f268a32-146e-4ee0-aefa-b984a8e71e3e}</destination>
+			<destination>{7ef6db67-a4c2-4681-a09e-d00060344797}</destination>
 		</relationship>
 	</object>
 	<object class="EventAutomatableProperties" id="{5c3b322b-65a2-4f9d-ab63-85b747f0eadc}" />
@@ -164,7 +164,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{3c919121-d9ee-4583-a873-485071a2bf5d}">
 		<property name="name">
-			<value>Audio 1</value>
+			<value>Soft Pad</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{0ce3e10e-9bf8-4157-b8b6-1a7674fd28c5}</destination>
@@ -202,7 +202,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{5c2379f6-0bd5-4c25-806e-4b539113bf5f}">
 		<property name="name">
-			<value>Audio 2</value>
+			<value>Bip 2</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{1004dd85-e167-45f8-9dd2-c56f25d2b50a}</destination>
@@ -240,7 +240,7 @@
 	</object>
 	<object class="EventMixerGroup" id="{f406aa3d-9d3d-4967-9366-1be96e1a8197}">
 		<property name="name">
-			<value>Audio 3</value>
+			<value>Bip</value>
 		</property>
 		<relationship name="effectChain">
 			<destination>{52fb8ba3-d5b9-420a-b76c-d4e08c29274b}</destination>
@@ -282,7 +282,7 @@
 	</object>
 	<object class="TransitionMarker" id="{3e94a606-9b05-47ed-bba7-2a4708d67e5b}">
 		<property name="position">
-			<value>21.68181818181818</value>
+			<value>21.27272727272727</value>
 		</property>
 		<relationship name="timeline">
 			<destination>{e4ee807c-1bc4-41ca-b4d0-f3f880616a30}</destination>
