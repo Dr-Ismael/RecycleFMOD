@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{ab4e9cc0-922a-4f9f-be5f-c11877064869}">
-		<property name="assetPath" />
+	<object class="AudioFile" id="{985bad6e-5ef4-4d04-9e07-43003e23bf67}">
+		<property name="assetPath">
+			<value>Music/Grassland/Stems Pastizla Mp3 Banjo A.mp3</value>
+		</property>
 		<property name="isStreaming">
 			<value>true</value>
 		</property>
@@ -12,7 +14,7 @@
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>16.463999999999999</value>
+			<value>96.768000000000001</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{8ebc32e1-7bd4-4d5f-8626-5bad1c23cc1c}</destination>

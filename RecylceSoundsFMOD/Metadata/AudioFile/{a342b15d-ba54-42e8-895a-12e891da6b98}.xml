@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{b05975ff-8881-4cb7-8703-3d8e14fd0023}">
+	<object class="AudioFile" id="{a342b15d-ba54-42e8-895a-12e891da6b98}">
 		<property name="assetPath">
-			<value>Music/Snow/Glockenspiel_1.wav</value>
+			<value>Music/Grassland/Stems Pastizla Mp3 Flauta 8D A.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>44.0999985</value>
+			<value>48</value>
 		</property>
 		<property name="channelCount">
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>65.387392290249437</value>
+			<value>96.768000000000001</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{8ebc32e1-7bd4-4d5f-8626-5bad1c23cc1c}</destination>

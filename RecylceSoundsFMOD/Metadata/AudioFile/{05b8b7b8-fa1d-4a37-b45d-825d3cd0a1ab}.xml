@@ -1,20 +1,20 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <objects serializationModel="Studio.02.02.00">
-	<object class="AudioFile" id="{cc755e72-71ab-45c7-93e4-60234d153223}">
+	<object class="AudioFile" id="{05b8b7b8-fa1d-4a37-b45d-825d3cd0a1ab}">
 		<property name="assetPath">
-			<value>Music/Snow/Harpa_1.wav</value>
+			<value>Music/Grassland/Stems Pastizla Mp3 Flauta Principal A.mp3</value>
 		</property>
 		<property name="isStreaming">
 			<value>true</value>
 		</property>
 		<property name="frequencyInKHz">
-			<value>44.0999985</value>
+			<value>48</value>
 		</property>
 		<property name="channelCount">
 			<value>2</value>
 		</property>
 		<property name="length">
-			<value>64.644353741496602</value>
+			<value>96.768000000000001</value>
 		</property>
 		<relationship name="masterAssetFolder">
 			<destination>{8ebc32e1-7bd4-4d5f-8626-5bad1c23cc1c}</destination>
