@@ -2,7 +2,7 @@
 <objects serializationModel="Studio.02.02.00">
 	<object class="Event" id="{f04f9a5f-1058-4445-911d-92f3fb615bec}">
 		<property name="name">
-			<value>Grassland</value>
+			<value>GrasslandMusic</value>
 		</property>
 		<property name="outputFormat">
 			<value>1</value>
@@ -38,6 +38,9 @@
 		</relationship>
 		<relationship name="parameters">
 			<destination>{8fc947ba-35bd-4deb-8928-dae347c999a4}</destination>
+		</relationship>
+		<relationship name="banks">
+			<destination>{b0834657-5736-486e-a126-1bf8a31acedd}</destination>
 		</relationship>
 	</object>
 	<object class="EventMixer" id="{12a51506-7c88-4257-b5aa-7059c63852a4}">
