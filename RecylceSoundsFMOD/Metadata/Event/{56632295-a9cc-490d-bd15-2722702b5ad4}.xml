@@ -5,7 +5,7 @@
 			<value>Misc</value>
 		</property>
 		<property name="outputFormat">
-			<value>5</value>
+			<value>1</value>
 		</property>
 		<relationship name="folder">
 			<destination>{00c654ba-fc82-4155-bff1-fb3920ab765d}</destination>

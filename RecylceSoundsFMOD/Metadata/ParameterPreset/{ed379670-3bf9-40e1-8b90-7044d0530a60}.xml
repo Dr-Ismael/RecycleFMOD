@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<objects serializationModel="Studio.02.02.00">
+	<object class="ParameterPreset" id="{ed379670-3bf9-40e1-8b90-7044d0530a60}">
+		<property name="name">
+			<value>IntensityBeach</value>
+		</property>
+		<relationship name="folder">
+			<destination>{96f19de3-f7e9-4eee-8ed9-d94c6e774428}</destination>
+		</relationship>
+		<relationship name="parameter">
+			<destination>{91ac6fad-fc81-49dd-8da4-e4f0af0530c0}</destination>
+		</relationship>
+	</object>
+	<object class="GameParameter" id="{91ac6fad-fc81-49dd-8da4-e4f0af0530c0}">
+		<property name="parameterType">
+			<value>1</value>
+		</property>
+		<property name="maximum">
+			<value>4</value>
+		</property>
+		<property name="initialValue">
+			<value>0</value>
+		</property>
+	</object>
+</objects>
